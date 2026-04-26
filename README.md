@@ -1,6 +1,7 @@
 # Phishing_risk_analysis
 
 *Zusammenfassung d. Ergebnisse*
+
 Anomale TLS-Verbindungen unterscheiden sich deutlich von normalen Verbindungen, insbesondere hinsichtlich der Verbindungsdauer und übertragenen Datenmenge. Während normale Sessions im Mittel sehr kurze Dauer aufweisen (~6 ms), zeigen anomale Sessions eine stark erhöhte Dauer (~326 ms). Gleichzeitig ist das übertragene Datenvolumen bei Anomalien deutlich reduziert. Diese Muster deuten darauf hin, dass anomale Verbindungen häufiger ineffizient oder unvollständig verlaufen. 
 
  
